@@ -39,7 +39,7 @@
         <cast_shadows>true</cast_shadows>
       </visual>
 
-      <collision name="collision">
+      <!-- <collision name="collision">
         <pose>0 0 0 1.57079 0 0</pose>
         <geometry>
           <mesh>
@@ -48,7 +48,7 @@
           </mesh>
         </geometry>
         <max_contacts>10</max_contacts>
-      </collision>
+      </collision> -->
     </link>
   </model>
 </sdf>
